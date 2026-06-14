@@ -89,7 +89,7 @@ async def generate_report(
 
     data_context = "\n".join(summary_lines)
 
-    prompt = f"""Bạn là chuyên viên phân tích dữ liệu tại team Loyalty ZaloPay.
+    prompt = f"""Bạn là chuyên viên phân tích dữ liệu tại team Loyalty Zalopay.
 Dưới đây là dữ liệu thống kê xu earn của users theo từng source và segment.
 
 {data_context}
