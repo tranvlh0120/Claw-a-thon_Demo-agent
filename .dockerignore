@@ -1,0 +1,10 @@
+.greennode.json
+.env
+*.xlsx
+*.csv
+EarnReport*.txt
+EarnReport*.html
+*.ps1
+greennode-agentbase-skills/
+.claude/
+.git/
